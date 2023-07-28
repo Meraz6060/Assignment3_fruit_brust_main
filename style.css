@@ -1,0 +1,25 @@
+
+#menubar{
+    padding-left: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+  }
+  #menubar li{
+    font-size: 18px;
+    list-style: none;
+    color: white;
+  }
+  .social-media{
+    padding-top: 10px;
+    padding-left: 1px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+  }
+  .social-media li{
+    background-color: #F85559;
+    list-style: none;
+    padding: 5px;
+    border-radius: 50%; 
+  }
